@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Data Engineering, Python, Java and general Linux computing
  
-- 🌱 I’m currently learning rust programming language
+- 🌱 I’m currently working with Kotlin and Go programming languages, as well as C# and python for work.
  
 - 📫 How to contact me :
   - my discord : szymonschabiak

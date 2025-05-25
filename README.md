@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently working with Kotlin and Go programming languages, as well as C# and python for work.
  
 - 📫 How to contact me :
-  - my discord : szymonschabiak
+  - my email: bryaneaton AT protonmail dot com
 
   
 <h1 align="center">My tech stack</h2>

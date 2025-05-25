@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,vim,bash,rust,github,git&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,vim,fish,python, java, kotlin, go,github,git&theme=dark" alt="My Skills" />
   </a>
 </p>
 

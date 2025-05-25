@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=bryaneaton&show_icons=true&theme=github_dark)](https://github.com/ygweygyigyigyigerig/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=bryaneaton&show_icons=true&theme=github_dark)](https://github.com/bryaneaton/github-readme-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=bryaneaton&theme=github-dark-blue&hide_border=false)<br/>

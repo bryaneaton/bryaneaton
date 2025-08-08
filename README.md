@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
  
 - 📫 How to contact me :
   - my email: bryaneaton AT protonmail dot com
+  - 📄 [My Resume](https://github.com/bryaneaton/resume/blob/master/bryan_eaton_resume.pdf)
 
   
 <h1 align="center">My tech stack</h2>
